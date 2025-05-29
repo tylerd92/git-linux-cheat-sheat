@@ -24,4 +24,6 @@ pwd - Shows the file of the current directory.
 
 cd - Changes the current directory to a specific directory.
 
+vi - Opens a file in the vi text editor
+
 
