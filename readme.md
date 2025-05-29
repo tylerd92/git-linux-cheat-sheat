@@ -11,4 +11,6 @@ git checkout - Can create a new branch based on the current branch, or switch to
 
 git branch - Used to create, rename, copy, or delete a branch. It can also list branches.
 
+git status - Shows the file paths that are being tracked that have changed, and the file paths that are not currenlty being tracked.
+
  
