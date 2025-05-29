@@ -13,4 +13,6 @@ git branch - Used to create, rename, copy, or delete a branch. It can also list 
 
 git status - Shows the file paths that are being tracked that have changed, and the file paths that are not currenlty being tracked.
 
+git diff - Shows changes between two branches, changes due to a merge, changes compared to the last commit and the working tree, and changes between two files.
+
  
