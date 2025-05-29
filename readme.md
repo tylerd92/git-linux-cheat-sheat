@@ -26,4 +26,6 @@ cd - Changes the current directory to a specific directory.
 
 vi - Opens a file in the vi text editor
 
+mv - Moves one or more files to a different location. It can also be used to rename files ordirectories
+
 
