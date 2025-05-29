@@ -18,4 +18,8 @@ git diff - Shows changes between two branches, changes due to a merge, changes c
 git merge - Combines the changes from a branch to the current working branch.
 
 ### Linux Commands
-mkdir - creates a new directory in the current path  
+mkdir - creates a new directory in the current path.
+
+pwd - Shows the file of the current directory.
+
+
