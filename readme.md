@@ -15,4 +15,7 @@ git status - Shows the file paths that are being tracked that have changed, and 
 
 git diff - Shows changes between two branches, changes due to a merge, changes compared to the last commit and the working tree, and changes between two files.
 
-git merge - Combines the changes from a branch to the current working branch. 
+git merge - Combines the changes from a branch to the current working branch.
+
+### Linux Commands
+mkdir - creates a new directory in the current path  
