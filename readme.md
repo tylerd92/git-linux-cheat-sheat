@@ -22,4 +22,6 @@ mkdir - creates a new directory in the current path.
 
 pwd - Shows the file of the current directory.
 
+cd - Changes the current directory to a specific directory.
+
 
